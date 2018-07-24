@@ -1,0 +1,10 @@
+.idea/
+*.iml
+output/
+target/
+.metadata/
+.settings/
+.recommenders/
+.classpath
+.project
+
